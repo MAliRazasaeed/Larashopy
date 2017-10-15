@@ -30,15 +30,18 @@ Laravel App with Shopping Cart and ordering System functionality.
 
 
 ## Customer
-1.Modern Dashboard
-2.Can see order history
-3.online Payment module
-4.Recived Announcement notification
-5.Change the Setting.
-6.Order update notification
+
+1. Modern Dashboard
+1. Can see order history
+1. online Payment module
+1. Recived Announcement notification
+1. Change the Setting.
+1. Order update notification
+
 
 ## Future Plan
-1.Mobile APP Andriod and Ios
-2.Real time tracked order
-3.Multi Languages.
-4.Best Pos System Integeration. etc......
+1. Mobile APP Andriod and Ios
+1. Real time order tracking
+1. Multi Languages.
+1. Best Pos System Integeration. etc......
+
