@@ -15,16 +15,19 @@ Laravel App with Shopping Cart and ordering System functionality.
 1. Visit localhost:8000 in your browser
 
 ## ToDo List
-1.Better Website Design
-2.Bestter Admin Dashboard Design
+
+
+1. Better Website Design
+1. Bestter Admin Dashboard Design
 
 ## Admin
-1.Add the Category of Product.
-2.Add the product Category wise.
-3.Change Website Content & Images.
-4.See List of all the Customer and Seed there History and Invoices
-5.Send Email about new Offers.
-6.Send Announcement andout new offers and product to all client.
+1. Add the Category of Product.
+1. Add the product Category wise.
+1. Change Website Content & Images.
+1. See List of all the Customer and Seed there History and Invoices
+1. Send Email about new Offers.
+1. Send Announcement andout new offers and product to all client.
+
 
 ## Customer
 1.Modern Dashboard
