@@ -16,26 +16,26 @@ Laravel App with Shopping Cart and ordering System functionality.
 
 ## ToDo List
 1.Better Website Design
-1.Bestter Admin Dashboard Design
+2.Bestter Admin Dashboard Design
 
-##Admin
+## Admin
 1.Add the Category of Product.
-1.Add the product Category wise.
-1.Change Website Content & Images.
-1.See List of all the Customer and Seed there History and Invoices
-1.Send Email about new Offers.
-1.Send Announcement andout new offers and product to all client.
+2.Add the product Category wise.
+3.Change Website Content & Images.
+4.See List of all the Customer and Seed there History and Invoices
+5.Send Email about new Offers.
+6.Send Announcement andout new offers and product to all client.
 
-##Customer
+## Customer
 1.Modern Dashboard
-1.Can see order history
-1.online Payment module
-1.Recived Announcement notification
-1.Change the Setting.
-1.Order update notification
+2.Can see order history
+3.online Payment module
+4.Recived Announcement notification
+5.Change the Setting.
+6.Order update notification
 
-##Future Plan
+## Future Plan
 1.Mobile APP Andriod and Ios
-1.Real time tracked order
-1.Multi Languages.
-1.Best Pos System Integeration. etc......
+2.Real time tracked order
+3.Multi Languages.
+4.Best Pos System Integeration. etc......
