@@ -13,7 +13,11 @@
     <!-- Styles -->
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
 <style type="text/css">
+/*body {
+    background-image: url("img/download.jpg");
+    background-repeat:no-repeat;
    
+} */  
 .panel-login {
     border-color: #ccc;
     -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);

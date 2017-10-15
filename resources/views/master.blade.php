@@ -12,7 +12,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url('css/bootstrap.min.css') }}">
 
     @yield('extra-css')
 
@@ -80,13 +80,13 @@
 
     <footer>
       <div class="container">
-        <p class="text-muted">By <a href="http://andremadarang.com">Andre Madarang</a></p>
+        <p class="text-muted text-center">By <a href="{{ url('#') }}">Ali Raza Saeed</a></p>
       </div>
     </footer>
 
 <!-- JavaScript -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="{{ url('js/jquery.js') }}"></script>
+<script src="{{ url('js/bootstrap.min.js') }}"></script>
 
 @yield('extra-js')
 

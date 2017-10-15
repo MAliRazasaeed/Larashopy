@@ -2,9 +2,10 @@
 
 An example Laravel App with Shopping Cart functionality. Uses [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart)
 
+This is not my Repo But I like to Add Some Extra feature with Better Design And Efficent Flow to it.
+
 Demo: <http://cartdemo.andredemos.ca/>
 
-Blog Post: <http://andremadarang.com/implementing-a-shopping-cart-in-laravel/>
 
 ## Installation
 
